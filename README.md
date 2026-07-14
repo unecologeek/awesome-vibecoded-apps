@@ -96,6 +96,7 @@ Vibe coding is an AI-assisted development approach [coined by Andrej Karpathy](h
 - [DOOMscroll](https://gisnep.com/doomscroll) - A DOOM-inspired browser game where the only mechanic is scrolling, with real NYT headlines.
 - [Fly](https://fly.pieter.com) - A multiplayer MMO flight sim with combat, 100% made with AI.
 - [Pixel Pokemon](https://github.com/0xClouds/pixel_pokemon) - A browser-based pixel art Pokemon game built with Next.js and TypeScript.
+- [TerraGuessr](https://terraguessr.org) - A website and an Android App for 3D display of worldwide statistics and a game to guess the countries names.
 - [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app) - A retro 3D taxi sim that won 1st place at the 2025 Vibe Coding Game Jam.
 - [Tower of Time](https://github.com/maciej-trebacz/tower-of-time-game) - A tower defense game with time-rewind mechanics, ~95% of the codebase written by AI.
 - [Vector Tango](https://www.vector-tango.com) - Low-poly air traffic control game with aerial combat and multiplayer.
